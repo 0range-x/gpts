@@ -1,6 +1,12 @@
 # gpts
 学习gpt的一些小玩意
 
+## 社工bot
+https://chat.openai.com/g/g-iDedAoxmt-who-is-hacker <br />
+根据网络ID来进行社工，构建人物画像，还需要优化
+![image](https://github.com/0range-x/gpts/assets/82167391/b7be9a8b-4b0d-48d1-9b09-d1164178c775)
+
+
 
 ## 威胁情报gpt
 https://chat.openai.com/g/g-SFPT09uaC-threat-intelligence-expert <br />
